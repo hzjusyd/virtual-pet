@@ -1,5 +1,5 @@
 # virtual-pet
-
+Run the pets file directly
 the program mainly has the following functions:
 1. Pets have multiple attributes, including the pet's name, hunger value, energy value, happiness value, age, whether it is sick, and optional food and games.
 2. Feeding, choose a food to feed. If the selection is valid and the pet's hunger value is sufficient, the corresponding hunger value is reduced and the happiness value is increased, and the corresponding prompt information is output. If the pet is not hungry, it will prompt that it does not need to be fed; if the selection is invalid, it will prompt to re-enter.
